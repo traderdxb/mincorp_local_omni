@@ -1,0 +1,6 @@
+{
+  "name": "MinCorp Trading LLC",
+  "description": "Global B2B commodity trading platform for sourcing metals, minerals, energy, building materials, and commodities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

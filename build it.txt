@@ -1,0 +1,11 @@
+Step 1: Download the project
+Go to the Code tab and export/download the full project as a zip.
+
+Open Code Tab
+
+Step 2: Build locally
+Extract the zip, open a terminal in that folder, and run:
+
+npm install
+npm run build
+This creates an out/ folder with the actual website files — compiled HTML, JS, CSS, plus the .htaccess I just added.
